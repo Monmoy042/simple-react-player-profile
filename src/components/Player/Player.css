@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+
+.main-content {
+  margin-bottom: 30px;
+}
+.player-img {
+  height: 200px;
+  width: 152px;
+}
+.player-title {
+  font-family: "Fjalla One", sans-serif;
+  color: #df5d29;
+}
+.player-text {
+  font-family: "Maven Pro", sans-serif;
+}
